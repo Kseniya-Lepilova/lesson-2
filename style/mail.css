@@ -6,12 +6,9 @@ body {
 
 h1 {    
     margin: 0;
-    
     font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     text-align: center;
-    /* width: 405;
-    height: 26; */
     border: none;
     top: 107px;
     left: 498px;
@@ -33,7 +30,6 @@ h1 {
     text-align: center;
     font-size: 14px;
     border: none;
- 
 }
 
 .design,
@@ -47,64 +43,73 @@ h1 {
     border: none;
 }
 
-.design {margin: 0 auto 0 143px}
+.design {
+    margin: 0 auto 0 143px;
+}
 
 
 .lamp {
     margin: 0 auto;
     width: 66px;
-  height: 66px;
-  border: 2px solid coral;
-  border-radius: 50%;
-  line-height: 4em;
-  text-align: center;
+    height: 66px;
+    border: 2px solid coral;
+    border-radius: 50%;
+    line-height: 4em;
+    text-align: center;
 }
 
-.round-lamp{width: 19px;
+.round-lamp {
+    width: 19px;
     height: 28px;
     border: none;
-font-size: 32px;}
-
+    font-size: 32px;    
+}
 
 .keyboard {
     margin: 0 auto;
     width: 66px;
-  height: 66px;
-  border: 2px solid coral;
-  border-radius: 50%;
-  line-height: 4em;
-  text-align: center;
+    height: 66px;
+    border: 2px solid coral;
+    border-radius: 50%;
+    line-height: 4em;
+    text-align: center;
 }
-.round-keyboard{width: 35px;
-height: 21px;}
 
-.lightning {margin: 0 auto;
+.round-keyboard {
+    width: 35px;
+    height: 21px;
+}
+
+.lightning {
+    margin: 0 auto;
     width: 66px;
-  height: 66px;
-  border: 2px solid coral;
-  border-radius: 50%;
-  line-height: 4em;
-  text-align: center;}
+    height: 66px;
+    border: 2px solid coral;
+    border-radius: 50%;
+    line-height: 4em;
+    text-align: center;}
 
-  .round-lightning{width: 17px;
-    height: 31px;}
+.round-lightning {
+    width: 17px;
+    height: 31px;
+}
 
-    .head-lamp{
+.head-lamp {
     font-family: 'Open Sans', sans-serif;
     text-align: center;
 }
 
-.head-keyboard{
+.head-keyboard {
     font-family: 'Open Sans', sans-serif;
     text-align: center;
 }
 
-.head-lightning{
+.head-lightning {
     font-family: 'Open Sans', sans-serif;
     text-align: center;
 }
 
-span{
+span {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     width: 350px;
