@@ -1,0 +1,115 @@
+body {
+    margin: 0 auto;
+    width: 1400px;
+    height: 590px;
+}
+
+h1 {    
+    margin: 0;
+    
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    /* width: 405;
+    height: 26; */
+    border: none;
+    top: 107px;
+    left: 498px;
+    margin-top: 107px;
+    font-size: 36px;
+}
+
+.line {
+    margin: 30px auto 30px auto; 
+    background-color: coral;
+    height: 2px;
+    border: none;
+    width: 64px;
+    
+}
+
+.text{  
+    margin: 30px auto 80px auto;
+    text-align: center;
+    font-size: 14px;
+    border: none;
+ 
+}
+
+.design,
+.crafted,
+.customize {
+    display: inline-block;
+    width: 350px;
+    height: 197px;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+}
+
+.design {margin: 0 auto 0 143px}
+
+
+.lamp {
+    margin: 0 auto;
+    width: 66px;
+  height: 66px;
+  border: 2px solid coral;
+  border-radius: 50%;
+  line-height: 4em;
+  text-align: center;
+}
+
+.round-lamp{width: 19px;
+    height: 28px;
+    border: none;
+font-size: 32px;}
+
+
+.keyboard {
+    margin: 0 auto;
+    width: 66px;
+  height: 66px;
+  border: 2px solid coral;
+  border-radius: 50%;
+  line-height: 4em;
+  text-align: center;
+}
+.round-keyboard{width: 35px;
+height: 21px;}
+
+.lightning {margin: 0 auto;
+    width: 66px;
+  height: 66px;
+  border: 2px solid coral;
+  border-radius: 50%;
+  line-height: 4em;
+  text-align: center;}
+
+  .round-lightning{width: 17px;
+    height: 31px;}
+
+    .head-lamp{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.head-keyboard{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.head-lightning{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+span{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    width: 350px;
+    height: 52px;
+    text-align: center;
+    font-kerning: inherit;
+    border: 2px;
+}
