@@ -21,8 +21,7 @@ h1 {
     background-color: coral;
     height: 2px;
     border: none;
-    width: 64px;
-    
+    width: 64px;  
 }
 
 .text{  
@@ -87,7 +86,8 @@ h1 {
     border: 2px solid coral;
     border-radius: 50%;
     line-height: 4em;
-    text-align: center;}
+    text-align: center;
+}
 
 .round-lightning {
     width: 17px;
